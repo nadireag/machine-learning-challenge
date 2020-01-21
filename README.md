@@ -39,4 +39,4 @@ This exoplanet data has `koi_tce_plnt_num` column that was not useful as a featu
 * Using GridSearchCV to tune the model's parameters, and changing `C` values, and increasing the number of iterations `max_iter` didn't improve scores. 
 
 
-As a result, the two models `SVM` and `LogisticRegression` didn't have any significant difference between them for this data, even hyperparameters tuning didn't help the differentiate the models. 
+As a result, the two models `SVM` and `LogisticRegression` didn't have any significant difference between them for this data, even hyperparameters tuning didn't help the differentiate the models. We can say `SVM model` performs sligtly better. 
